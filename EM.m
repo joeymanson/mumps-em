@@ -1,3 +1,8 @@
+/*
+Usage example:
+	d GO^EM(2) - generates 2 random keys for EM
+*/
+
 GO(number)
 	N I
 	N ARR,STAR,R1,R2,R3,R4,R5,S1,S2,POS
